@@ -1,0 +1,3 @@
+vhdl work "util.vhd"
+vhdl work "audio.vhd"
+vhdl work "Ebert2Main.vhd"

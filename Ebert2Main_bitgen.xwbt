@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\15201017\Desktop\Piano_pushbutton\Ebert2Main.ncd
+OUTFILE=C:\Users\15201017\Desktop\Piano_pushbutton\Ebert2Main.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s50a-4tq144
+WORKINGDIR=C:\Users\15201017\Desktop\Piano_pushbutton
+LICENSE=WebPack
+USER_INFO=211541868_0_0_433
